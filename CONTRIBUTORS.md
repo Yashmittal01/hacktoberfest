@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name:[yashmittal01] (https://github.com/Yashmittal01)
+-Place: India
+-Bio: artificial intelligence and machine learning
+-Github: [yashmittal01] (https://github.com/Yashmittal01)
